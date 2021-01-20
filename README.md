@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="GoStack" src=".img/logo.svg" width="200px" />
+	<img alt="GoStack" src="https://github.com/paulohenriquerosa/GoBarber/blob/main/img/logo.png" width="200px" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://github.com/EliasGcf/gobarber/blob/master/README.md"><img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber?color=%23FF9000"></a>
 </p>
 
-<img alt="Mockup" src=".img/thumb.png">
+<img alt="Mockup" src="https://github.com/paulohenriquerosa/GoBarber/blob/main/img/thumb.png">
 
 ## 👨🏻‍💻 Hi everyone, I made some changes here
 
